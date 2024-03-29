@@ -299,7 +299,7 @@
 } */
 
 
-body {
+/* body {
   background: #8acdeb;
 }
 
@@ -416,10 +416,10 @@ body {
 
 #cup-handle {
   position: absolute;
-  right: -40px;
+  right: -20px;
   top: 30px;
-  height: 120px;
-  width: 100px;
+  height: 140px;
+  width: 120px;
   border-radius: 50%;
   border: 25px solid #f3f3f3;
   border-left: 25px solid transparent;
@@ -477,7 +477,7 @@ body {
   height: 100%;
   background: linear-gradient(#c57e65, #e28462);
   border-radius: 50%;
-} 
+}  */
 /* 
 body {
 	background-image: url(coffee.jpeg);
@@ -1233,7 +1233,7 @@ body {
 	bottom:65px;
   } */
 
-  /* html {
+  html {
 	height: 100%;
   }
   
@@ -1245,7 +1245,7 @@ body {
 	justify-content: center;
 	margin: 0;
 	overflow: hidden;
-  } */
+  }
   
   /* GLASS */
   .glass {
@@ -1687,11 +1687,11 @@ body {
 		padding: 0;
 	  }
 	  
-	  body {
+	  /* body {
 		background-color: var(--alabaster);
 		min-height: 100vh;
 		width: 100%;
-	  }
+	  } */
 	  
 	  .card-container {
 		margin: 0 auto;

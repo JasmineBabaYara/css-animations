@@ -1720,11 +1720,11 @@ body {
 	  } */
 	  
 	  /* Square */
-	  .square-card {
+	  /* .square-card {
 		background-color: var(--frostee);
-	  }
+	  } */
 	  
-	  .square-card::before {
+	  /* .square-card::before {
 		animation: shadow 1.6s ease-in-out infinite both;
 		background-color: rgba(0, 0, 0, 0.2);
 		border-radius: 50%;
@@ -1735,7 +1735,7 @@ body {
 		left: 25%;
 		position: absolute;
 		right: 25%;
-	  }
+	  } */
 	  
 	  .down {
 		animation: down 1.6s ease-in infinite both;

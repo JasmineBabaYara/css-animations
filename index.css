@@ -1248,7 +1248,7 @@ body {
   } */
   
   /* GLASS */
-  .glass {
+  /* .glass {
 	position: relative;
 	width: 40vmin;
 	outline: none;
@@ -1282,7 +1282,7 @@ body {
 	bottom: 0;
 	border-radius: 0 0 25% 25% / 0 0 10% 10%;
 	overflow: hidden;
-  }
+  } */
   
   
   /* BEER */
@@ -1451,7 +1451,7 @@ body {
   
   /* POUR */
   
-  .pour {
+  /* .pour {
 	position: absolute;
 	z-index: 2;
 	left: 50%;
@@ -1513,7 +1513,7 @@ body {
 	  opacity: 0;
 	  width: 0;
 	}
-  }
+  } */
   
   
   /* INSTRUCTIONS */

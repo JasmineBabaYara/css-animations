@@ -1517,7 +1517,7 @@ body {
   
   
   /* INSTRUCTIONS */
-  .instructions {
+  /* .instructions {
 	position: fixed;
 	left: 50%;
 	top: 50%;
@@ -1550,7 +1550,7 @@ body {
 	20%, 100% {
 	  opacity: 0;
 	}
-  }
+  } */
   
   
   /* DEFINE ANIMATION */

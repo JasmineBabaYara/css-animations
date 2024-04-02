@@ -1233,7 +1233,7 @@ body {
 	bottom:65px;
   } */
 
-  /* html {
+  html {
 	height: 100%;
   }
   
@@ -1245,10 +1245,10 @@ body {
 	justify-content: center;
 	margin: 0;
 	overflow: hidden;
-  } */
+  }
   
   /* GLASS */
-  /* .glass {
+  .glass {
 	position: relative;
 	width: 40vmin;
 	outline: none;
@@ -1282,7 +1282,7 @@ body {
 	bottom: 0;
 	border-radius: 0 0 25% 25% / 0 0 10% 10%;
 	overflow: hidden;
-  } */
+  }
   
   
   /* BEER */
@@ -1451,7 +1451,7 @@ body {
   
   /* POUR */
   
-  /* .pour {
+  .pour {
 	position: absolute;
 	z-index: 2;
 	left: 50%;
@@ -1513,11 +1513,11 @@ body {
 	  opacity: 0;
 	  width: 0;
 	}
-  } */
+  }
   
   
   /* INSTRUCTIONS */
-  /* .instructions {
+  .instructions {
 	position: fixed;
 	left: 50%;
 	top: 50%;
@@ -1550,7 +1550,7 @@ body {
 	20%, 100% {
 	  opacity: 0;
 	}
-  } */
+  }
   
   
   /* DEFINE ANIMATION */
@@ -1569,7 +1569,7 @@ body {
   
   
   /* ANIMATE FILL */
-  /* @media (pointer: fine) {
+  @media (pointer: fine) {
 	.glass:active .beer,
 	.glass:active .head,
 	.glass:active .surface,
@@ -1599,7 +1599,7 @@ body {
 	  width: 10%;
 	  opacity: 1;
 	}
-  } */
+  }
 
   /* square changing sizes */
 
@@ -1629,7 +1629,7 @@ body {
       /* animation-fill-mode: forwards; */
     }
 
-    /* @keyframes anime {
+    @keyframes anime {
       0% {
         width: 60px;
         height: 60px;
@@ -1665,11 +1665,11 @@ body {
                      0 0 0 pink,
                      0 0 0 #d1a1a8 inset,
                      2px 2px 2px pink inset;
-      }} */
+      }}
 
 
 	  /* balls movement */
-	  /* :root {
+	  :root {
 		--alabaster: #FAFAFA;
 		--frangipani: #b315ed;
 		--frostee: #afb2e2;
@@ -1686,14 +1686,14 @@ body {
 		margin: 0;
 		padding: 0;
 	  }
-	   */
+	  
 	  /* body {
 		background-color: var(--alabaster);
 		min-height: 100vh;
 		width: 100%;
 	  } */
 	  
-	  /* .card-container {
+	  .card-container {
 		margin: 0 auto;
 		max-width: 100%;
 		padding: 2rem;
@@ -1717,14 +1717,14 @@ body {
 		height: 3rem;
 		position: absolute;
 		width: 3rem;
-	  } */
+	  }
 	  
 	  /* Square */
-	  /* .square-card {
+	  .square-card {
 		background-color: var(--frostee);
-	  } */
+	  }
 	  
-	  /* .square-card::before {
+	  .square-card::before {
 		animation: shadow 1.6s ease-in-out infinite both;
 		background-color: rgba(0, 0, 0, 0.2);
 		border-radius: 50%;
@@ -1735,9 +1735,9 @@ body {
 		left: 25%;
 		position: absolute;
 		right: 25%;
-	  } */
+	  }
 	  
-	  /* .down {
+	  .down {
 		animation: down 1.6s ease-in infinite both;
 		bottom: 2rem;
 		position: absolute;
@@ -1745,8 +1745,8 @@ body {
 	  
 	  .down .up {
 		animation: up 1.6s ease-in-out infinite both;
-	  } */
-/* 	  
+	  }
+	  
 	  .down .up .squeeze {
 		animation: squeeze 1.6s cubic-bezier(0.72, 0.03, 0.28, 0.97) infinite both;
 		transform-origin: 50% 100%;
@@ -1759,8 +1759,8 @@ body {
 	  .down .up .squeeze .rotate-in .rotate-out {
 		animation: rotate-out 1.6s ease-in infinite both;
 	  }
-	   */
-	  /* .square {
+	  
+	  .square {
 		background-color: var(--white);
 		height: 5rem;
 		width: 5rem;
@@ -1774,9 +1774,9 @@ body {
 		100% {
 		  transform: translateY(0);
 		}
-	  } */
+	  }
 	  
-	  /* @keyframes up {
+	  @keyframes up {
 		0%,
 		75% {
 		  transform: translateY(0);
@@ -1784,9 +1784,9 @@ body {
 		100% {
 		  transform: translateY(-10rem);
 		}
-	  } */
+	  }
 	  
-	  /* @keyframes squeeze {
+	  @keyframes squeeze {
 		0%,
 		4% {
 		  transform: scale(1);
@@ -1797,7 +1797,7 @@ body {
 		100% {
 		  transform: scale(1);
 		}
-	  } */
+	  }
 	  
 	  @keyframes rotate-in {
 		0% {

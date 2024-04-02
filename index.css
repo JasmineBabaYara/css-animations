@@ -1737,7 +1737,7 @@ body {
 		right: 25%;
 	  } */
 	  
-	  .down {
+	  /* .down {
 		animation: down 1.6s ease-in infinite both;
 		bottom: 2rem;
 		position: absolute;
@@ -1745,8 +1745,8 @@ body {
 	  
 	  .down .up {
 		animation: up 1.6s ease-in-out infinite both;
-	  }
-	  
+	  } */
+/* 	  
 	  .down .up .squeeze {
 		animation: squeeze 1.6s cubic-bezier(0.72, 0.03, 0.28, 0.97) infinite both;
 		transform-origin: 50% 100%;
@@ -1759,8 +1759,8 @@ body {
 	  .down .up .squeeze .rotate-in .rotate-out {
 		animation: rotate-out 1.6s ease-in infinite both;
 	  }
-	  
-	  .square {
+	   */
+	  /* .square {
 		background-color: var(--white);
 		height: 5rem;
 		width: 5rem;
@@ -1774,9 +1774,9 @@ body {
 		100% {
 		  transform: translateY(0);
 		}
-	  }
+	  } */
 	  
-	  @keyframes up {
+	  /* @keyframes up {
 		0%,
 		75% {
 		  transform: translateY(0);
@@ -1784,7 +1784,7 @@ body {
 		100% {
 		  transform: translateY(-10rem);
 		}
-	  }
+	  } */
 	  
 	  @keyframes squeeze {
 		0%,

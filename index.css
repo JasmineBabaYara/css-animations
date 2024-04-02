@@ -1569,7 +1569,7 @@ body {
   
   
   /* ANIMATE FILL */
-  @media (pointer: fine) {
+  /* @media (pointer: fine) {
 	.glass:active .beer,
 	.glass:active .head,
 	.glass:active .surface,
@@ -1599,7 +1599,7 @@ body {
 	  width: 10%;
 	  opacity: 1;
 	}
-  }
+  } */
 
   /* square changing sizes */
 

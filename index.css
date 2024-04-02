@@ -1629,7 +1629,7 @@ body {
       /* animation-fill-mode: forwards; */
     }
 
-    @keyframes anime {
+    /* @keyframes anime {
       0% {
         width: 60px;
         height: 60px;
@@ -1665,7 +1665,7 @@ body {
                      0 0 0 pink,
                      0 0 0 #d1a1a8 inset,
                      2px 2px 2px pink inset;
-      }}
+      }} */
 
 
 	  /* balls movement */

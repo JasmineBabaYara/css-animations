@@ -1786,7 +1786,7 @@ body {
 		}
 	  } */
 	  
-	  @keyframes squeeze {
+	  /* @keyframes squeeze {
 		0%,
 		4% {
 		  transform: scale(1);
@@ -1797,7 +1797,7 @@ body {
 		100% {
 		  transform: scale(1);
 		}
-	  }
+	  } */
 	  
 	  @keyframes rotate-in {
 		0% {
